@@ -1,10 +1,11 @@
-# Artisan Backend
+# FastAPI Backend
 
-This repository contains the FastAPI backend for the Artisan project—a full‑stack application designed to manage leads. The backend supports CRUD operations, filtering, sorting, CSV export, JWT authentication, and real‑time updates via WebSockets.
+This repository contains the FastAPI backend for the Artisan project—a full‑stack application designed to manage leads. The backend supports CRUD operations, filtering, sorting, CSV export, JWT authentication, and real‑time updates via WebSockets.This uses SQLAlchemy (with asyncpg) for asynchronous interactions with a PostgreSQL database. It is containerized using Docker and deployed on AWS Elastic Beanstalk with an AWS RDS PostgreSQL instance.
 
-## Overview
+## URL
+Try the React -App: https://main.d3v82t4zx92fjf.amplifyapp.com/
 
-The Artisan backend is built with FastAPI and uses SQLAlchemy (with asyncpg) for asynchronous interactions with a PostgreSQL database. It is containerized using Docker and deployed on AWS Elastic Beanstalk with an AWS RDS PostgreSQL instance.
+Backend API Endpoint: https://api.backenddemo.site/docs#/
 
 ## Features
 
@@ -69,7 +70,7 @@ The Artisan backend is built with FastAPI and uses SQLAlchemy (with asyncpg) for
 5.  **Database Migrations:**
    * Generate a New Migration:
     ```bash
-      alembic revision --autogenerate -m "Describe your changes here"
+      alembic revision --autogenerate -m "Creating DB tables"
     ```
    * Apply the Migrations:
      ```bash
