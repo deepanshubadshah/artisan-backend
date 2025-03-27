@@ -34,3 +34,7 @@ Thumbs.db
 
 # DB feed files
 seed_users.py
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

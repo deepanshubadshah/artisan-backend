@@ -9,7 +9,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 # Import Base and models
 from app.core.database import Base  # Import Base correctly
-from app.models import lead  # Ensure models are loaded
+from app.models import lead, user  # Ensure models are loaded
 
 # Alembic Config object
 config = context.config
