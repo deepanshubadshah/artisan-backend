@@ -26,6 +26,9 @@ Backend API Endpoint: https://api.backenddemo.site/docs#/
 - **Containerization:** Docker
 - **Cloud:** AWS Elastic Beanstalk, AWS RDS
 
+## Demo:
+https://www.loom.com/share/7220a5aa11fc4c708f835401da0288a2?sid=453e5a51-2275-4103-844e-5257bb92c543
+
 ## Local Setup & Installation
 
 ### Prerequisites
