@@ -7,6 +7,9 @@ Try the React -App: https://main.d3v82t4zx92fjf.amplifyapp.com/
 
 Backend API Endpoint: https://api.backenddemo.site/docs#/
 
+## Demo:
+https://www.loom.com/share/7220a5aa11fc4c708f835401da0288a2?sid=453e5a51-2275-4103-844e-5257bb92c543
+
 ## Features
 
 - **CRUD Operations:** Create, read, update, and delete leads.
@@ -25,9 +28,6 @@ Backend API Endpoint: https://api.backenddemo.site/docs#/
 - **Authentication:** JWT (using jose and passlib)
 - **Containerization:** Docker
 - **Cloud:** AWS Elastic Beanstalk, AWS RDS
-
-## Demo:
-https://www.loom.com/share/7220a5aa11fc4c708f835401da0288a2?sid=453e5a51-2275-4103-844e-5257bb92c543
 
 ## Local Setup & Installation
 
