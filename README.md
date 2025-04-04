@@ -3,7 +3,7 @@
 This repository contains the FastAPI backend for the Artisan project—a full‑stack application designed to manage leads. The backend supports CRUD operations, filtering, sorting, CSV export, JWT authentication, and real‑time updates via WebSockets.This uses SQLAlchemy (with asyncpg) for asynchronous interactions with a PostgreSQL database. It is containerized using Docker and deployed on AWS Elastic Beanstalk with an AWS RDS PostgreSQL instance.
 
 ## URL
-Try the React -App: https://main.d3v82t4zx92fjf.amplifyapp.com/
+**Try the React -App**: https://main.d3v82t4zx92fjf.amplifyapp.com/
 
 Backend API Endpoint: https://api.backenddemo.site/docs#/
 
